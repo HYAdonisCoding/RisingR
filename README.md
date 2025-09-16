@@ -50,3 +50,7 @@ Rscript --encoding=UTF-8 2RBase.R
 - 提供一个完整的学习 R 语言环境配置示例
 - 帮助学习者熟悉 R 基础语法、函数、环境和包管理
 - 保证中文输出在 macOS + VS Code 下正常显示
+
+## 许可证
+
+本项目采用 [MIT 许可证](LICENSE)。
